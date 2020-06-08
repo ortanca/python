@@ -1,0 +1,4 @@
+ahmet  arslan:80,90,70
+yasin arslan:90,90,95
+asiye arslan:100,100,100
+burak  arslan:100,100,100
